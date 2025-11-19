@@ -23,6 +23,7 @@ PTFM-FewShot-FaultDiagnosis/
 │   ├── CWRU.ipynb                # Few-shot diagnosis on CWRU bearing dataset
 │   ├── JNU.ipynb                 # Few-shot diagnosis on JNU gearbox dataset
 ├── datasets/
+```
 
 ## citation
 ```bash
@@ -36,3 +37,4 @@ PTFM-FewShot-FaultDiagnosis/
   pages={178045-178059},
   keywords={Fault diagnosis;Industrial robots;Vibrations;Time-frequency analysis;Feature extraction;Sensors;Robustness;Metalearning;Time-domain analysis;Prototypes;Fault diagnosis;few-shot learning;industrial robot;prototypical time-frequency mixer;transmission system},
   doi={10.1109/ACCESS.2025.3620386}}
+```
